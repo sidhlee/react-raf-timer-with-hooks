@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  border: 1px solid #ccc;
+  background: #fff;
+  font-size: 2em;
+  padding: 15px;
+  margin: 5px;
+  width: 200px;
+}
+
+.display {
+  font-size: 5em;
+  display: block;
+}
